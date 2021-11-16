@@ -1,0 +1,6 @@
+python-telegram-bot
+telegram
+numpy
+python-dotenv
+sympy
+matplotlib
